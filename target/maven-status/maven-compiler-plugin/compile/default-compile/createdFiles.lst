@@ -1,1 +1,4 @@
-com/mycompany/discord/Discord.class
+model/AtendimentoModel.class
+main/Discord.class
+util/ConnectionFactory.class
+controller/AtendimentoController.class

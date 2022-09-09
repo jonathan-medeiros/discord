@@ -16,7 +16,7 @@ public class AtendimentoModel {
     private String nome;
     private Date data;
     private Date atendimento;
-    private int status; //0 = não atendido, 1 = atendido
+    private int status; //0 = não atendido, 1 = em atendimento, 2 = já atendido 
 
     public AtendimentoModel(int id, String nome, Date data, Date atendimento, int status) {
         this.id = id;
